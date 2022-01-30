@@ -1,0 +1,211 @@
+* {
+  margin: 0;
+}
+.body {
+  scroll-behavior: smooth;
+}
+.butterfly {
+  display: inline-block;
+  position: absolute;
+  top: 6%;
+  left: 5%;
+  width: 5.4rem;
+}
+div > a {
+  display: inline-block;
+  text-decoration: none;
+  text-align: center;
+  width: 80px;
+  margin-top: 1%;
+  position: relative;
+  left: 70%;
+  padding: 20px;
+  font-family: "Rubik", sans-serif;
+  font-weight: 600;
+  font-size: 1em;
+  color: #49f24f;
+}
+.navbar-link {
+  margin-top: 1%;
+  width: auto;
+  height: 80px;
+}
+
+.hero {
+  width: auto;
+  height: 600px;
+  position: relative;
+}
+
+.headline {
+  display: inline-block;
+  width: 600px;
+  padding: 10px;
+  position: relative;
+  top: 140px;
+  left: 70px;
+  margin-left: 0;
+  font-family: "Rubik", sans-serif;
+  font-weight: bold;
+  font-size: 3em;
+}
+
+.description {
+  display: block;
+  width: 650px;
+  position: relative;
+  padding: 10px;
+  top: 150px;
+  left: 70px;
+  margin-left: 0;
+  font-family: "karla", sans-serif;
+  font-weight: 300;
+  font-size: 1.2em;
+}
+.resume-button {
+  width: 160px;
+  height: 60px;
+  position: relative;
+  top: 165px;
+  left: 70px;
+  padding: 10px 20px;
+  margin-top: 10px;
+  background-color: #49f24f;
+  font-family: "Rubik", sans-serif;
+  font-weight: 500;
+  font-size: 0.9em;
+  border-radius: 44px;
+  border-style: none;
+  text-align: center;
+}
+
+.geo {
+  height: 450px;
+  width: 500px;
+  float: right;
+  position: relative;
+  top: 75px;
+}
+.about-section {
+  width: auto;
+  height: 700px;
+  position: relative;
+}
+.about-header {
+  display: inline-block;
+  width: 50px;
+  text-align: center;
+  height: 10px;
+  padding: 10px;
+  position: relative;
+  top: 100px;
+  left: 70px;
+  margin-left: 0;
+  font-family: "Rubik", sans-serif;
+  font-weight: bold;
+  font-size: 1.2em;
+}
+
+.about-myself {
+  display: block;
+  width: 600px;
+  position: relative;
+  padding: 10px;
+  top: 140px;
+  left: 70px;
+  margin-top: 40px;
+  margin-bottom: 300px;
+  margin-left: 0;
+  font-family: "karla", sans-serif;
+  font-weight: 300;
+  font-size: 1.2em;
+}
+.work-section {
+  width: auto;
+  height: 800px;
+  position: relative;
+}
+
+.project-section {
+  width: auto;
+  height: 1400px;
+  position: relative;
+}
+
+.project-header {
+  display: inline-block;
+  width: 50px;
+  text-align: center;
+  padding: 10px;
+  position: relative;
+  top: 80px;
+  left: 70px;
+  margin-left: 0;
+  font-family: "Rubik", sans-serif;
+  font-weight: bold;
+  font-size: 1.2em;
+}
+
+.first {
+  background-color: #49f24f;
+  width: 80%;
+  height: 350px;
+  margin: 140px auto 0 auto;
+  border-radius: 44px;
+}
+
+.second {
+  background-color: #49f24f;
+  width: 80%;
+  height: 350px;
+  margin: 30px auto 0 auto;
+  border-radius: 44px;
+}
+
+.third {
+  background-color: #49f24f;
+  width: 80%;
+  height: 350px;
+  margin: 30px auto 0 auto;
+  border-radius: 44px;
+}
+
+.contact-section {
+  width: auto;
+  height: 400px;
+  position: relative;
+}
+.contact-header {
+  display: inline-block;
+  width: 50px;
+  text-align: center;
+  padding: 10px;
+  position: relative;
+  top: 80px;
+  left: 70px;
+  margin-left: 0;
+  font-family: "Rubik", sans-serif;
+  font-weight: bold;
+  font-size: 1.2em;
+}
+.mailme {
+  display: block;
+  width: 400px;
+  position: relative;
+  padding: 10px;
+  top: 100px;
+  left: 70px;
+  margin-top: 40px;
+  margin-bottom: 300px;
+  margin-left: 0;
+  font-family: "karla", sans-serif;
+  font-weight: 300;
+  font-size: 1.2em;
+}
+
+.footer-section {
+  width: auto;
+  height: 400px;
+  position: relative;
+  background-color: black;
+}
